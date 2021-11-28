@@ -6,10 +6,10 @@ body{
     font-family: sans-serif;
     letter-spacing: 2px;
     margin : 0 ;
-    min-width: 1024px;
+    min-width: 320px;
 }
 .header_box{
-    width: 1024px;
+    width: 320px;
     margin: 0 auto;
     display:flex;
     justify-content:space-between;
@@ -19,7 +19,7 @@ main{
     padding: 30px 30px;
 }
 .main_box, .footer_box{
-    width: 1024px;
+    width: 320px;
     margin: 0 auto;
 }
 h1{
