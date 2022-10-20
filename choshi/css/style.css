@@ -37,6 +37,7 @@ header{
     color: white;
     padding: 30px;
 }
+header a{color:white;}
 
 footer{
     background-color:#0099cc;
