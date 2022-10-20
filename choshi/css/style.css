@@ -33,7 +33,7 @@ h2{
 }
 
 header{
-    background-color:#0066cc;
+    background-color:#cc0000;
     color: white;
     padding: 30px;
 }
@@ -49,4 +49,7 @@ ul{
     display:flex;
     width:400px;
     justify-content:space-between;
+}
+VIDEO{
+    WIDTH: 100%
 }
