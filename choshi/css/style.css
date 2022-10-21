@@ -60,3 +60,7 @@ ul{
 VIDEO{
     WIDTH: 100%
 }
+.choshi_box a{
+    color:gray;
+    text-decoration: none;
+}
