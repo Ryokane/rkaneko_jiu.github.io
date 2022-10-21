@@ -44,6 +44,12 @@ footer{
     color: white;
     padding: 30px;
 }
+
+footer a{
+    color:white;
+    text-decoration: none;
+}
+
 ul{
     list-style-type:none;
     padding:0;
